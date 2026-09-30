@@ -192,7 +192,7 @@ O nome foi escolhido em referência a Matias Aires, considerado o primeiro filó
 
 A inteligência artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do protótipo, especialmente na construção e evolução da aplicação por meio de *Vibe Coding*.
 
-# Limitação:
+* Limitação:
 
 A aplicação utiliza o uso de OCR (Reconhecimento óptico de Caracteres) para auxiliar o usuário na extração de texto do upload de imagens. Essa funcionalidade é apenas experimental, podendo apresentar resultados aleatórios. Essa limitação é esperada, pois tem caráter de protótipo e demonstração da funcionalidade. 
 
