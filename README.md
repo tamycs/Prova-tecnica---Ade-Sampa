@@ -89,6 +89,7 @@ A escola funciona como referência para a disponibilidade e retirada do livro.
 7. O sistema gera o comprovante.
 8. Após a retirada, a operação é concluída como **Trocado**.
 
+Obs.: É possível realizar upload de imagens do livro cadastrado.
 ---
 
 ## 📊 Dados e estrutura
@@ -191,10 +192,12 @@ O nome foi escolhido em referência a Matias Aires, considerado o primeiro filó
 
 A inteligência artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do protótipo, especialmente na construção e evolução da aplicação por meio de *Vibe Coding*.
 
+# Limitação:
+
+A aplicação utiliza o uso de OCR (Reconhecimento óptico de Caracteres) para auxiliar o usuário na extração de texto do upload de imagens. Essa funcionalidade é apenas experimental, podendo apresentar resultados aleatórios. Essa limitação é esperada, pois tem caráter de protótipo e demonstração da funcionalidade. 
+
 Entretanto, a utilização de IA não eliminou a necessidade de planejamento, validação e testes.
-
 A IA foi utilizada como ferramenta de desenvolvimento do protótipo. 
-
 
 ---
 
