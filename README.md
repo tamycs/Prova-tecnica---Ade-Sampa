@@ -12,6 +12,10 @@ Projeto desenvolvido para a segunda etapa do processo seletivo, conforme Edital 
 
 O **Troca Livro SP** é um protótipo de solução digital (vibe code) desenvolvido a partir de uma oportunidade de melhoria relacionada à circulação e ao reaproveitamento de livros didáticos e/ou literários dentro da Rede Municipal de Ensino.
 
+## 📁 Arquivo
+
+- [`Troca Livro SP.html`]
+
 A proposta é criar um ambiente em que estudantes ou responsáveis possam disponibilizar livros vinculados a uma escola municipal, escolhendo entre duas modalidades:
 
 - 🔄 **Troca** — disponibilizar um livro e receber outro em troca;
@@ -136,10 +140,15 @@ A análise foi dividida em duas frentes complementares.
 
 A ferramenta de BI foi utilizada para construir uma visão destinada ao acompanhamento da operação.
 
+## 📁 Arquivo
+- [`trocalivrosp.pbix`]
+
 ### Python — exploração e análise
 
 Python foi utilizado como uma segunda camada de análise, permitindo explorar os dados de forma espacial, temporal e previsão.
 
+## 📁 Arquivo
+[`TrocaLivroSP.versao2`]
 
 ---
 
@@ -172,6 +181,8 @@ A identidade utiliza uma abordagem visual minimalista, evitando uma aparência e
 O projeto também possui um mascote original chamado **Matias**: um livro amarelo utilizando uma mochila azul.
 
 O nome foi escolhido em referência a Matias Aires, considerado o primeiro filósofo brasileiro. A escolha surgiu de uma associação pessoal.
+## 📁 Arquivo
+[`matias livro.jpg`]
 
 
 ---
