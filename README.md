@@ -196,7 +196,7 @@ Foram utilizadas diferentes ferramentas ao longo do desenvolvimento:
 - Power BI — construção de análises e visualizações gerenciais;
 - Python (Pandas , geopandas, folium, Statsmodels, Matplotlib)
 - Git e GiHub — versionamento e documentação do projeto;
-
+- Excel
 
 
 ## 🏫 Base de escolas
